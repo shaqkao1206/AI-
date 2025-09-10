@@ -1,0 +1,5 @@
+{
+  "name": "AI 圖像融合工作室",
+  "description": "一款功能強大的多功能圖片生成應用程式，使用 Gemini 技術。支援文字生成圖片、圖片生成圖片、多圖參考，以及特殊的一鍵生成公仔模型功能。",
+  "requestFramePermissions": []
+}
